@@ -1,0 +1,4 @@
+﻿  PacMan.c
+C:\Users\admin\Desktop\LJH\PacMan in C\PacMan in C\PacMan.c(106,2): warning C4002: 함수 같은 매크로 호출 '__crt_va_start'에 대해 인수가 너무 많습니다.
+C:\Users\admin\Desktop\LJH\PacMan in C\PacMan in C\PacMan.c(106,1): warning C5082: 'va_start'에 대한 두 번째 인수가 마지막으로 명명된 매개 변수가 아닙니다.
+  PacMan in C.vcxproj -> C:\Users\admin\Desktop\LJH\PacMan in C\x64\Debug\PacMan in C.exe
